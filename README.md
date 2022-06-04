@@ -1,4 +1,4 @@
-<h1 align="center">Eu sou o Carlos Daniel</h1>
+<h1 align="center">Ola! Eu sou o Carlos Daniel</h1>
 <h3 align="center">Um desenvolvedor júnior em java</h3>
 
 - 🔭 Atualmente trabalhando em **Pesquisa de um chip hormonal cerebral**
