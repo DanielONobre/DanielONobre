@@ -1,3 +1,3 @@
-## Oiii eu sou O Carlos Daniel, Programador Júnior!
+## Opa! Eu sou O Carlos Daniel, Programador Júnior!
 <div align="center">
  
