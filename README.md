@@ -4,7 +4,7 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielONobre&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DanielONobre&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
  &nbsp;
  &nbsp;
 
@@ -14,7 +14,7 @@
 
 #### Main Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![react]https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -27,7 +27,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![JWT]https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ## Contacts:
 
